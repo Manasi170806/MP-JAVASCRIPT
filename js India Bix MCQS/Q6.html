@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+      
+    <script>
+
+        //Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?
+
+        let n = prompt("Enter n:");
+        let start = 21;
+        let starts = 9;
+        let i = 1;
+
+        document.write(start + " ");
+        document.write(starts + " ");
+
+        while(i<n) 
+        { 
+            if(i % 2 == 1) 
+            {
+                start = 21;
+                document.write(" " + start);
+            } 
+            else 
+            {
+                starts += 2; 
+                document.write(" " + starts);
+            }
+            i++;
+        }
+
+
+    </script>
+     
+</body>
+</html>
