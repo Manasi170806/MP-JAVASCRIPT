@@ -10,29 +10,24 @@
     <script>
 
         //Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?
+        
+        let n = prompt("Enter n:");
+        let start = 14;
+        let i = 1;
 
-        // let n = prompt("Enter n:");
-        // let start = 14;
-        // let starts = 28;
-        // let i = 1;
-
-        // document.write(start + " ,");
-        // document.write(starts + ", ");
-
-        // while(i<n) 
-        // { 
-        //     if(i % 2 == 1) 
-        //     {
-        //         starts -=8; 
-        //         document.write(" " + starts);
-        //     } 
-        //     else 
-        //     {
-        //         start *=2;
-        //         document.write(" " + start);
-        //     }
-        //     i++;
-        // }
+        for(i=1 ; i<=n ; i++) 
+        { 
+            if(i % 2 == 1) 
+            {
+                document.write(" " + start);
+                start *=2; 
+            } 
+            else 
+            {
+                document.write(" " + start);
+                start -=8;
+            }
+        }
 
     </script>
     
