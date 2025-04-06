@@ -28,9 +28,11 @@ This project strengthened my understanding of date/time handling in JavaScript, 
 **Why This Works for LinkedIn:**
 
 ✔ Professional yet engaging – Highlights skills without being overly technical
+
 ✔ Structured for readability – Bullet points make it easy to scan
+
 ✔ Encourages interaction – Ends with a question to prompt comments
 
-⏳💻 #JavaScript #WebDevelopment #Frontend #CodingProjects
+**⏳💻 #JavaScript #WebDevelopment #Frontend #CodingProjects**
 
 https://github.com/user-attachments/assets/4d6b1cb1-c874-40a0-84ac-e174d459a032
