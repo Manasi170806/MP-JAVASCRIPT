@@ -26,7 +26,7 @@ This project strengthened my understanding of date/time handling in JavaScript, 
 
 📂 GitHub Repository: [https://github.com/Manasi170806/MP-JAVASCRIPT]
 
-**Why This Works for LinkedIn:**
+**Why This Works for Github:**
 
 ✔ Professional yet engaging – Highlights skills without being overly technical
 
