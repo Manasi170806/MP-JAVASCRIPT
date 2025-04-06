@@ -15,6 +15,7 @@ I’m excited to share my latest project: a Countdown Timer App built with HTML,
 ✅ Fully Responsive – Works seamlessly on desktop, tablet, and mobile
 
 **Tech Stack:**
+
 🔹 Frontend: Vanilla JavaScript (DOM Manipulation, Event Listeners)
 
 🔹 Styling: CSS3 (Flexbox, Animations, Responsive Design)
