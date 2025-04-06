@@ -28,4 +28,3 @@ CSS3 (Flexbox/Grid)
 
 JavaScript (ES6+)
 
-(https://github.com/user-attachments/assets/be010c8d-1f4c-4eea-9d16-32083650f261)
