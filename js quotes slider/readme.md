@@ -1,4 +1,6 @@
-**GitHub Quotes Slider**A sleek, responsive quotes slider to showcase inspirational coding quotes, developer wisdom, or project testimonials. Perfect for GitHub Pages, portfolio repos, or documentation!
+**GitHub Quotes Slider**
+
+A sleek, responsive quotes slider to showcase inspirational coding quotes, developer wisdom, or project testimonials. Perfect for GitHub Pages, portfolio repos, or documentation!
 
 **Features** 🌟
 
