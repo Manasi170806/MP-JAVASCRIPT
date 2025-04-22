@@ -1,0 +1,35 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url('img/background.jpg');
+    background-position: center;
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+h1 
+{
+    color: #f9fbfc;
+    text-align: center;
+    padding-top: 35px;
+}
+.table
+{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 17px;
+    background-color: #d8e2fd;
+}
+.table tr:hover
+{
+    background-color: rgb(187, 213, 247);
+}
+th
+{
+    color: rgb(46, 46, 138);
+    font-size: 21px;
+}
